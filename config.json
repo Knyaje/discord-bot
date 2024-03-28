@@ -1,0 +1,58 @@
+{
+    "RSQ": {
+      "config": {
+        "timeToDeleteChannel": "900000",
+        "GuildInvite": {
+          "91-battalion": "https://discord.gg/mkHPhvXeBD",
+          "7-battalion": "https://discord.gg/mkHPhvXeBD"
+        }
+      },
+      "tableList": {
+        "91-battalion": {
+          "usersOsnova": "91th Table | Users!B4:CN",
+          "BattleRaport": "91th Table | Users!Q4:V"
+        },
+        "7-battalion": {
+          "usersOsnova": "7th Table | Users!B4:CN"
+        }
+      },
+      "BattalionGuildsID": ["806978184707833867", "1032184961303846963"],
+      "menuOptions": {
+        "91-battalion": {
+          "BattalionGuildID": "806978184707833867"
+        },
+        
+        "7-battalion": {
+          "BattalionGuildID": "1032184961303846963",
+          "Raports": {
+            "RaportFightChannel": "1192258025210249256"
+          },
+          "categoryCreateChannel": "781418142786256908"
+        }
+      }
+    },
+  
+    "DeadZone": {
+      "DiscordGuildID": "1206761477961293904",
+      "GuildInvite-RP": "https://discord.gg/HPEmRNbJ5f",
+      "config": {
+        "quest":{
+          "channelInside": "1206924886971260969",
+          "channelAppryary": "1207020278564257822",
+          "categoryCreateChannel": "1207030161720213544"
+        }
+      }
+    },
+  
+    "users": {
+      "devs": ["250607207132037121"]
+    },
+  
+    "infoBot": {
+      "version": "0.3.8",
+      "discordjsV": "14.14.1",
+      "author": "<@250607207132037121>"
+    },
+  
+    "testServer": "777971112310865970"
+  }
